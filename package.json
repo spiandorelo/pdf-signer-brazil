@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spiandorelo/pdf-signer-brazil"
+    "url": "git+https://github.com/spiandorelo/pdf-signer-brazil.git"
   },
-  "author": "",
+  "author": "Ricardo Spiandorelo",
   "license": "MIT",
   "keywords": [
     "sign",
