@@ -1,6 +1,6 @@
 {
-  "name": "pdf-signer-brazil",
-  "version": "3.0.1",
+  "name": "@spiandorelo/pdf-signer-brazil",
+  "version": "0.0.1",
   "description": "A JavaScript PDF signer with certificate A1 ICP-Brasil for NodeJS.",
   "main": "dist/sign.js",
   "dependencies": {
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willmdrs/pdf-signer-brazil.git"
+    "url": "git+https://github.com/spiandorelo/pdf-signer-brazil"
   },
   "author": "",
   "license": "MIT",
@@ -44,9 +44,9 @@
     "brasil"
   ],
   "bugs": {
-    "url": "https://github.com/willmdrs/pdf-signer-brazil.git/issues"
+    "url": "https://github.com/spiandorelo/pdf-signer-brazil/pulls"
   },
-  "homepage": "https://github.com/willmdrs/pdf-signer-brazil.git#readme",
+  "homepage": "https://github.com/spiandorelo/pdf-signer-brazil#readme",
   "jest": {
     "globals": {
       "ts-jest": {
